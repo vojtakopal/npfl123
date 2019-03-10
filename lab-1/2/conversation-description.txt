@@ -1,0 +1,7 @@
+Concierge service bot. 
+Task oriented for a set of tasks:
+    - creating and updating reservations
+    - dealing with room service tasks
+Basic chitchat functionality.
+
+It's an interface between hotels and guest to provide the basic service.

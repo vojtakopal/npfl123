@@ -1,0 +1,8 @@
+Hi.
+Hi. I need help with my reservation.
+What is your booking number?
+2345678
+I see your staying with us tomorrow. What is the problem?
+I need to cancel it.
+I see. There is a cancellation fee of 100%. Do you want to proceed?
+No.
